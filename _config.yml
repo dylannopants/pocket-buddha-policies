@@ -1,0 +1,9 @@
+title: Pocket Buddha — Policies
+description: Privacy Policy and Terms of Service for the Pocket Buddha mobile app.
+theme: jekyll-theme-minima
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
